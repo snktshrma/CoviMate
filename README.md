@@ -1,7 +1,7 @@
 # CoviMate
 
 # Team Members
-1. Ankit
+1. Ankit(Lead)
 2. Ankit Das
 3. Karanbir Singh
 
